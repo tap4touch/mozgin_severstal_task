@@ -7,8 +7,8 @@
 
 ## Контакты
 
-> **Николай Мозгин**  
-> 📧 [nsmozgin@edu.hse.ru](mailto:nsmozgin@edu.hse.ru) • 💬 [@tap4touch](https://t.me/tap4touch)
+ - [nsmozgin@edu.hse.ru](mailto:nsmozgin@edu.hse.ru) 
+ - [@tap4touch](https://t.me/tap4touch)
 
 
 ## Возможности
