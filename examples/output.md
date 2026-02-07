@@ -1,0 +1,9 @@
+## Parsing Report
+
+  Total    |  Correct   | Incorrect 
+---------- | ---------- | ----------
+    11     |     10     |     1     
+
+## Errors
+- **Line 11**: Not enough fields, expected 3
+  - Raw line: `13;Kek;144`
